@@ -8,7 +8,7 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    cout << "hello world !" << endl;
+    cout << "hello world in github!" << endl;
 
     system("pause");
 
